@@ -1,5 +1,5 @@
 ### Hi there 👋
- 💻  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/63/7a/4d/637a4d42e1738853b2f96ffbbd60622a.gif" height="250" /> 
+ 💻  <img align="right" alt="GIF" src="https://thumbs.gfycat.com/DetailedPotableBobolink-size_restricted.gif" height="250" /> 
 ## My name is Müdafer Kaymak.
   I am a computer engineering student at Yildiz Technical University.
 - 🌱 I’m currently interested in embedded systems and artificial intelligence.
