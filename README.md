@@ -5,7 +5,7 @@
 - 🌱 I’m currently interested in embedded systems and artificial intelligence.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudaferkaymak&theme=moonlight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudaferkaymak&theme=seagreen)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mudaferkaymak&theme=nightowl&background=)](https://git.io/streak-stats)
 
