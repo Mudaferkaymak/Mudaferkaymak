@@ -22,7 +22,4 @@
   <a href="https://www.linkedin.com/in/m%C3%BCdafer-kaymak-1750911b9/?originalSubdomain=tr">
      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/zehraemul/?hl=tr">
-    <img  height="40" src="https://www.instagram.com/mudaferkymk/?hl=tr" alt="LinkedIn Badge"/>
-  </a>
 </div>
