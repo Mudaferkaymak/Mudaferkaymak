@@ -9,7 +9,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mudaferkaymak&theme=nightowl&background=)](https://git.io/streak-stats)
 
-![GithHub Stats](https://github-readme-stats.vercel.app/api?username=zehraemul&theme=tokyonight)
+![GithHub Stats](https://github-readme-stats.vercel.app/api?username=Mudaferkaymak&theme=tokyonight)
 
 <div align="center">
   <h2>Languages</h2>
