@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudaferkaymak&theme=gotham)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mudaferkaymak&theme=gotham&background=)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mudaferkaymak&theme=transparent&background=)](https://git.io/streak-stats)
 
 ![GithHub Stats](https://github-readme-stats.vercel.app/api?username=Mudaferkaymak&theme=tokyonight)
 
